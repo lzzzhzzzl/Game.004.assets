@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Wood1
+  m_Controller: {fileID: 9100000, guid: 40a52c1807373b0449acb4fbfd6ecab0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9cba5233b42bbd5498874f415e3ee755, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a595b70f3ac2fd849af9a68dc1581af1, type: 2}

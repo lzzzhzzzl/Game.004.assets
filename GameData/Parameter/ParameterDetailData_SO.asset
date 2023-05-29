@@ -1,0 +1,592 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc449b8b1c128b54cad19a7095f2937f, type: 3}
+  m_Name: ParameterDetailData_SO
+  m_EditorClassIdentifier: 
+  parameterList:
+  - ID: Parameter-10001
+    parameterType: 2
+    stateDataList:
+      appear: 16
+      idle: 17
+      move: 18
+      hurt: 20
+      die: 19
+      attack: 21
+      skill: 22
+    checkRange: 5
+    checkTime: 1
+    health: 30
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 0
+    itemCanGenerate:
+    - Item-10018
+    itemMaxCount: 05000000
+    itemMinCount: 03000000
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: d6004a3e20df2074aa77d5a4c134e1d0, type: 2}
+  - ID: Parameter-10002
+    parameterType: 2
+    stateDataList:
+      appear: 16
+      idle: 17
+      move: 18
+      hurt: 20
+      die: 19
+      attack: 21
+      skill: 22
+    checkRange: 5
+    checkTime: 1
+    health: 20
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 0
+    itemCanGenerate:
+    - Item-10018
+    itemMaxCount: 03000000
+    itemMinCount: 01000000
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 618af02e5f3c3ec4dbc475bbcdc7225b, type: 2}
+  - ID: Parameter-10003
+    parameterType: 2
+    stateDataList:
+      appear: 16
+      idle: 17
+      move: 18
+      hurt: 20
+      die: 19
+      attack: 21
+      skill: 22
+    checkRange: 5
+    checkTime: 1
+    health: 10
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 0
+    itemCanGenerate:
+    - Item-10018
+    itemMaxCount: 02000000
+    itemMinCount: 01000000
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: d74b99c941b14214cbf3741196ab5ed5, type: 2}
+  - ID: Parameter-10004
+    parameterType: 2
+    stateDataList:
+      appear: 16
+      idle: 17
+      move: 18
+      hurt: 20
+      die: 19
+      attack: 21
+      skill: 22
+    checkRange: 5
+    checkTime: 1
+    health: 20
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 0
+    itemCanGenerate:
+    - Item-10018
+    itemMaxCount: 04000000
+    itemMinCount: 02000000
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: d7759528075502044abc1ffe5c38b0ea, type: 2}
+  - ID: Parameter-10005
+    parameterType: 2
+    stateDataList:
+      appear: 16
+      idle: 17
+      move: 18
+      hurt: 20
+      die: 19
+      attack: 21
+      skill: 22
+    checkRange: 10
+    checkTime: 0.2
+    health: 20
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 0
+    itemCanGenerate:
+    - Item-10018
+    itemMaxCount: 04000000
+    itemMinCount: 02000000
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: d7759528075502044abc1ffe5c38b0ea, type: 2}
+  - ID: Parameter-10006
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 6
+    checkRange: 10
+    checkTime: 1
+    health: 25
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 3
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 950119ab44a7375438c94062100bf93a, type: 2}
+  - ID: Parameter-10007
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 7
+    checkRange: 10
+    checkTime: 1
+    health: 50
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 10
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 4
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: Parameter-10010
+    animatorOverride: {fileID: 22100000, guid: 2ddbfb299643e71428816b781b63d8ac, type: 2}
+  - ID: Parameter-10008
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 6
+    checkRange: 10
+    checkTime: 1
+    health: 10
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 3
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: eb9627be2864c5a41a8f4a0d951cfe79, type: 2}
+  - ID: Parameter-10009
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 6
+    checkRange: 10
+    checkTime: 1
+    health: 15
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 3
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: f5d74675de31e704db1f02ebba133366, type: 2}
+  - ID: Parameter-10010
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 6
+    checkRange: 10
+    checkTime: 1
+    health: 5
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 3
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 1
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 98f1e084b8667c24aa3355e818cff4ed, type: 2}
+  - ID: Parameter-10011
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 6
+    checkRange: 10
+    checkTime: 1
+    health: 20
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 2
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 47a597ef003bd6f45a48269e8086b2fe, type: 2}
+  - ID: Parameter-10012
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 6
+    checkRange: 10
+    checkTime: 1
+    health: 20
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 2
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 302e71f34266624489980b321310f80f, type: 2}
+  - ID: Parameter-10013
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 7
+    checkRange: 10
+    checkTime: 1
+    health: 25
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 0.5
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 2
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: Parameter-10014
+    animatorOverride: {fileID: 22100000, guid: 9951f377b7cb3af4e86e89e9e8817040, type: 2}
+  - ID: Parameter-10014
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 6
+    checkRange: 10
+    checkTime: 1
+    health: 15
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 5
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 2
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 1
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 2516240c3704e5445849fb545ce5bb75, type: 2}
+  - ID: Parameter-10015
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 7
+    checkRange: 10
+    checkTime: 1
+    health: 10
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 3
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 6
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: Parameter-10016
+    animatorOverride: {fileID: 22100000, guid: be4866d6f056fc841b61cd32aa814436, type: 2}
+  - ID: Parameter-10016
+    parameterType: 0
+    stateDataList:
+      appear: 0
+      idle: 1
+      move: 2
+      hurt: 4
+      die: 3
+      attack: 5
+      skill: 6
+    checkRange: 10
+    checkTime: 1
+    health: 10
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 3
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 2
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 1
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 63e72b96848118b46a8533bdffc8ddb4, type: 2}
+  - ID: Parameter-10017
+    parameterType: 1
+    stateDataList:
+      appear: 7
+      idle: 8
+      move: 9
+      hurt: 0
+      die: 10
+      attack: 11
+      skill: 14
+    checkRange: 10
+    checkTime: 0.2
+    health: 50
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 3
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 0
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 6a768a1e19909ac46a790d2153b15200, type: 2}
+  - ID: Parameter-10018
+    parameterType: 1
+    stateDataList:
+      appear: 7
+      idle: 8
+      move: 9
+      hurt: 0
+      die: 10
+      attack: 11
+      skill: 14
+    checkRange: 10
+    checkTime: 0.2
+    health: 50
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 3
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 1
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: ed9bd7acf78c32c4c9a760d6f378743a, type: 2}
+  - ID: Parameter-10019
+    parameterType: 1
+    stateDataList:
+      appear: 7
+      idle: 8
+      move: 9
+      hurt: 0
+      die: 10
+      attack: 12
+      skill: 20
+    checkRange: 10
+    checkTime: 0.2
+    health: 100
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 3
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 0
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 1a7eb5baa5206b848b45952d9db26558, type: 2}
+  - ID: Parameter-10020
+    parameterType: 1
+    stateDataList:
+      appear: 7
+      idle: 8
+      move: 9
+      hurt: 0
+      die: 10
+      attack: 12
+      skill: 14
+    checkRange: 10
+    checkTime: 0.2
+    health: 100
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 3
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 1
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 61f19faa4720d9146939bd357a566805, type: 2}
+  - ID: Parameter-10021
+    parameterType: 1
+    stateDataList:
+      appear: 7
+      idle: 8
+      move: 9
+      hurt: 0
+      die: 10
+      attack: 13
+      skill: 14
+    checkRange: 10
+    checkTime: 0.2
+    health: 150
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 3
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 0
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 43d3cb0f850fde849aa3914e95eb5482, type: 2}
+  - ID: Parameter-10022
+    parameterType: 1
+    stateDataList:
+      appear: 7
+      idle: 8
+      move: 9
+      hurt: 0
+      die: 10
+      attack: 13
+      skill: 14
+    checkRange: 10
+    checkTime: 0.2
+    health: 150
+    moveSpeed: 3
+    MeleeAttackPosition: {x: 0.5, y: 0.5, z: 0}
+    MeleeAttackRadius: 1
+    MeleeAttackDamage: 3
+    RemoteAttackRadius: 3
+    RemoteAttackTime: 3
+    bulletType: 1
+    itemCanGenerate: []
+    itemMaxCount: 
+    itemMinCount: 
+    hasAppearAnimal: 0
+    generateParameterID: 
+    animatorOverride: {fileID: 22100000, guid: 76a5b1d406464e34f944f14dbca23f44, type: 2}

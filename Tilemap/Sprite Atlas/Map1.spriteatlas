@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Map1
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1008835937, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 943188067, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -525466264, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1788624183, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -544317422, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -238736993, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -1785157240, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -1506319649, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -1357877142, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -2142336970, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -806410741, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1163053533, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 871307811, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 66839385, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 376598591, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1958533357, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1972463013, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1965832608, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 854904454, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1772563348, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1781342030, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 595104663, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1810885900, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1955346101, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1682846653, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -431546853, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 756616862, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -933709226, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 2009754833, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 366062536, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1931213018, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 396418697, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1616946114, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 574478602, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 578133646, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1061728371, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -1752614979, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 537893211, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -463104165, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -689568171, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1499544511, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -680048858, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -1421345973, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 784857190, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -1736303470, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -581162456, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -433290532, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 1095126664, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -1130911995, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: -1874098296, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  - {fileID: 107019432, guid: d22e2d2096715d64294ec729fec8fbcd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tileset_grass (free demo)_12
+  - Tileset_grass (free demo)_13
+  - Tileset_grass (free demo)_10
+  - Tileset_grass (free demo)_11
+  - Tileset_grass (free demo)_16
+  - Tileset_grass (free demo)_17
+  - Tileset_grass (free demo)_14
+  - Tileset_grass (free demo)_15
+  - Tileset_grass (free demo)_18
+  - Tileset_grass (free demo)_19
+  - Tileset_grass (free demo)_39
+  - Tileset_grass (free demo)_29
+  - Tileset_grass (free demo)_28
+  - Tileset_grass (free demo)_27
+  - Tileset_grass (free demo)_30
+  - Tileset_grass (free demo)_26
+  - Tileset_grass (free demo)_31
+  - Tileset_grass (free demo)_25
+  - Tileset_grass (free demo)_24
+  - Tileset_grass (free demo)_23
+  - Tileset_grass (free demo)_22
+  - Tileset_grass (free demo)_21
+  - Tileset_grass (free demo)_20
+  - Tileset_grass (free demo)_7
+  - Tileset_grass (free demo)_6
+  - Tileset_grass (free demo)_5
+  - Tileset_grass (free demo)_4
+  - Tileset_grass (free demo)_3
+  - Tileset_grass (free demo)_2
+  - Tileset_grass (free demo)_1
+  - Tileset_grass (free demo)_0
+  - Tileset_grass (free demo)_9
+  - Tileset_grass (free demo)_8
+  - Tileset_grass (free demo)_63
+  - Tileset_grass (free demo)_75
+  - Tileset_grass (free demo)_76
+  - Tileset_grass (free demo)_77
+  - Tileset_grass (free demo)_66
+  - Tileset_grass (free demo)_54
+  - Tileset_grass (free demo)_65
+  - Tileset_grass (free demo)_64
+  - Tileset_grass (free demo)_52
+  - Tileset_grass (free demo)_53
+  - Tileset_grass (free demo)_51
+  - Tileset_grass (free demo)_41
+  - Tileset_grass (free demo)_40
+  - Tileset_grass (free demo)_43
+  - Tileset_grass (free demo)_42
+  - Tileset_grass (free demo)_85
+  - Tileset_grass (free demo)_84
+  - Tileset_grass (free demo)_83
+  m_RenderDataMap: {}
+  m_Tag: Map1
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

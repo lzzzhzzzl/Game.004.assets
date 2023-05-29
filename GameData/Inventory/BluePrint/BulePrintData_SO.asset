@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66bbe843576e5443b1a43e3daf9268f, type: 3}
+  m_Name: BulePrintData_SO
+  m_EditorClassIdentifier: 
+  bluePrintDataList:
+  - furnitureID: Furniture-10001
+    size: {x: 1, y: 1, z: 0}
+    furnitureType: 2
+    resourceItem:
+    - itemID: Item-10013
+      itemAmount: 8
+      itemUseTimes: 0
+    - itemID: Item-10016
+      itemAmount: 3
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 1721359872, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
+    furnitureBuilding: {fileID: 5134933807096527507, guid: d7722fd0a1a341541b769055b0c9b1a1, type: 3}
+  - furnitureID: Furniture-10003
+    size: {x: 1, y: 1, z: 0}
+    furnitureType: 1
+    resourceItem:
+    - itemID: Item-10013
+      itemAmount: 8
+      itemUseTimes: 0
+    - itemID: Item-10016
+      itemAmount: 2
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 1365268972, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
+    furnitureBuilding: {fileID: 334549405168901419, guid: c0d4089c5857f1d4383983b90608d7f2, type: 3}
+  - furnitureID: Furniture-10004
+    size: {x: 2, y: 1, z: 0}
+    furnitureType: 1
+    resourceItem:
+    - itemID: Item-10014
+      itemAmount: 10
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: -1717676502, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
+    furnitureBuilding: {fileID: 6503102768678979096, guid: b3edf58e213a335408a5fe93faf13888, type: 3}
+  - furnitureID: Furniture-10005
+    size: {x: 1, y: 2, z: 0}
+    furnitureType: 1
+    resourceItem:
+    - itemID: Item-10014
+      itemAmount: 10
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: -1956621316, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
+    furnitureBuilding: {fileID: 9186575282199641410, guid: c82e3b963b4b68240a37cdd18084b5ac, type: 3}
+  - furnitureID: Furniture-10006
+    size: {x: 1, y: 2, z: 0}
+    furnitureType: 1
+    resourceItem:
+    - itemID: Item-10014
+      itemAmount: 10
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: -520504391, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
+    furnitureBuilding: {fileID: 7009095953856942331, guid: 83b6d90106538a1408d990f757fdb1d7, type: 3}
+  - furnitureID: Furniture-10007
+    size: {x: 1, y: 1, z: 0}
+    furnitureType: 1
+    resourceItem:
+    - itemID: Item-10013
+      itemAmount: 8
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 1025716714, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
+    furnitureBuilding: {fileID: 7147703865796692552, guid: 87f059707d5ae8a4b99b29b29169dec5, type: 3}
+  - furnitureID: Furniture-10008
+    size: {x: 1, y: 1, z: 0}
+    furnitureType: 1
+    resourceItem:
+    - itemID: Item-10013
+      itemAmount: 6
+      itemUseTimes: 0
+    - itemID: Item-10018
+      itemAmount: 2
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 21300000, guid: 37045baf0c81140f98abd36bb1da03cf, type: 3}
+    furnitureBuilding: {fileID: 225485964025890876, guid: c60545d930509e74d84594d504526c02, type: 3}
+  - furnitureID: Furniture-10009
+    size: {x: 3, y: 2, z: 0}
+    furnitureType: 0
+    resourceItem:
+    - itemID: Item-10013
+      itemAmount: 20
+      itemUseTimes: 0
+    - itemID: Item-10015
+      itemAmount: 10
+      itemUseTimes: 0
+    - itemID: Item-10017
+      itemAmount: 5
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: -313792244, guid: 0bf3f70ca7b298c4ab102561bb265a07, type: 3}
+    furnitureBuilding: {fileID: 7488824057231311692, guid: b684b8e24b71e9548b56ef2338742a71, type: 3}
+  - furnitureID: Furniture-10010
+    size: {x: 4, y: 3, z: 0}
+    furnitureType: 0
+    resourceItem:
+    - itemID: Item-10013
+      itemAmount: 30
+      itemUseTimes: 0
+    - itemID: Item-10014
+      itemAmount: 20
+      itemUseTimes: 0
+    - itemID: Item-10016
+      itemAmount: 5
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 2017790036, guid: 573bfa3998d5f3746ab5347e2ce84b62, type: 3}
+    furnitureBuilding: {fileID: 8646756366532873751, guid: 59c9cca3faa20b941a71700ae11d9c2c, type: 3}
+  - furnitureID: Furniture-10011
+    size: {x: 7, y: 3, z: 0}
+    furnitureType: 0
+    resourceItem:
+    - itemID: Item-10013
+      itemAmount: 40
+      itemUseTimes: 0
+    - itemID: Item-10014
+      itemAmount: 30
+      itemUseTimes: 0
+    - itemID: Item-10016
+      itemAmount: 10
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 1798039943, guid: 2e8965589e64a9542bcb2e3c758a26e0, type: 3}
+    furnitureBuilding: {fileID: 2192105861020439544, guid: 403b53c23134c6742a820f31ad8e37d8, type: 3}
+  - furnitureID: Furniture-10012
+    size: {x: 1, y: 1, z: 0}
+    furnitureType: 1
+    resourceItem:
+    - itemID: Item-10014
+      itemAmount: 30
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 497563614, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
+    furnitureBuilding: {fileID: 1880298369574627530, guid: a96828902752bb74482bbd3ccc527948, type: 3}
+  - furnitureID: Furniture-10013
+    size: {x: 1, y: 1, z: 0}
+    furnitureType: 1
+    resourceItem:
+    - itemID: Item-10014
+      itemAmount: 50
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 20007128, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
+    furnitureBuilding: {fileID: 8828713988316414771, guid: 46642c3fab248274db1d36440a598685, type: 3}
+  - furnitureID: Furniture-10014
+    size: {x: 3, y: 3, z: 0}
+    furnitureType: 0
+    resourceItem:
+    - itemID: Item-10013
+      itemAmount: 20
+      itemUseTimes: 0
+    - itemID: Item-10015
+      itemAmount: 10
+      itemUseTimes: 0
+    - itemID: Item-10017
+      itemAmount: 5
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 205045645, guid: 62d3cefb1e4488b4e8bbf9887197c0fd, type: 3}
+    furnitureBuilding: {fileID: 3482831385828590744, guid: a35794cdeaca40943948ddb27011d84d, type: 3}
+  - furnitureID: Furniture-10015
+    size: {x: 4, y: 3, z: 0}
+    furnitureType: 0
+    resourceItem:
+    - itemID: Item-10013
+      itemAmount: 30
+      itemUseTimes: 0
+    - itemID: Item-10014
+      itemAmount: 20
+      itemUseTimes: 0
+    - itemID: Item-10016
+      itemAmount: 5
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 2017790036, guid: c7dfdf12e8e7e0c4fb506740fe808425, type: 3}
+    furnitureBuilding: {fileID: 444419824068914095, guid: 344583fe09404fa489198f7160f5251d, type: 3}
+  - furnitureID: Furniture-10016
+    size: {x: 7, y: 3, z: 0}
+    furnitureType: 0
+    resourceItem:
+    - itemID: Item-10013
+      itemAmount: 40
+      itemUseTimes: 0
+    - itemID: Item-10014
+      itemAmount: 30
+      itemUseTimes: 0
+    - itemID: Item-10016
+      itemAmount: 10
+      itemUseTimes: 0
+    canBuild: 1
+    furnitureSpriteInUI: {fileID: 721290117, guid: c4f04040cdd0d6f4297267f85708c205, type: 3}
+    furnitureBuilding: {fileID: 2641121461241001049, guid: a53f6e10bf0c1ee43a46c623a92ccf97, type: 3}

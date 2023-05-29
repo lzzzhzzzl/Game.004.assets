@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e90019893c53142b81e70422014a74, type: 3}
+  m_Name: MapData_SO
+  m_EditorClassIdentifier: 
+  mapDataList:
+  - mapID: Map-10001
+    describe: "\u4E00\u4E2A\u666E\u901A\u7684\u5C9B\u5C7F\uFF0C\u53EF\u4EE5\u83B7\u53D6\u6728\u6750"
+    fromScene: MainMap
+    sprite: {fileID: 21300000, guid: 06451d0b5067b7a47a34f34fb81509d4, type: 3}
+    startPos: {x: 80, y: 10, z: 0}
+    mapTile: {fileID: 11400000, guid: 9f088f948b58b8a42a87a16d2d60818f, type: 2}
+    isRandomMap: 1
+    isCamp: 0
+  - mapID: Map-10002
+    describe: "\u4E00\u4E2A\u666E\u901A\u7684\u5C9B\u5C7F\uFF0C\u53EF\u4EE5\u83B7\u53D6\u6728\u6750"
+    fromScene: MainMap
+    sprite: {fileID: 21300000, guid: 06451d0b5067b7a47a34f34fb81509d4, type: 3}
+    startPos: {x: 80, y: 10, z: 0}
+    mapTile: {fileID: 11400000, guid: ea2dcb1a653bd3940a1c6a4631230620, type: 2}
+    isRandomMap: 1
+    isCamp: 0
+  - mapID: Map-10003
+    describe: "\u4E00\u4E2A\u666E\u901A\u7684\u5C9B\u5C7F\uFF0C\u53EF\u4EE5\u83B7\u53D6\u6728\u6750"
+    fromScene: MainMap
+    sprite: {fileID: 21300000, guid: 06451d0b5067b7a47a34f34fb81509d4, type: 3}
+    startPos: {x: 80, y: 10, z: 0}
+    mapTile: {fileID: 11400000, guid: 916e9ef5792dcfd4bbb7e8d06f979098, type: 2}
+    isRandomMap: 1
+    isCamp: 0
+  - mapID: Map-10004
+    describe: "\u4E00\u4E2A\u666E\u901A\u7684\u5C9B\u5C7F\uFF0C\u53EF\u4EE5\u83B7\u53D6\u6728\u6750"
+    fromScene: MainMap
+    sprite: {fileID: 21300000, guid: 06451d0b5067b7a47a34f34fb81509d4, type: 3}
+    startPos: {x: 80, y: 10, z: 0}
+    mapTile: {fileID: 11400000, guid: b10180d3cf1aa184cb853c6c2714e4a8, type: 2}
+    isRandomMap: 1
+    isCamp: 0
+  - mapID: Map-10005
+    describe: "\u4E00\u4E2A\u9057\u8FF9\uFF0C\u597D\u50CF\u6709\u4E00\u4E9B\u5EFA\u7B51"
+    fromScene: TempleRemain
+    sprite: {fileID: 21300000, guid: ab9e89fdfc1e3284aaa97cfe65b85877, type: 3}
+    startPos: {x: 70, y: -8, z: 0}
+    mapTile: {fileID: 11400000, guid: de4deb40a07b0ce469af7094b3b888bf, type: 2}
+    isRandomMap: 0
+    isCamp: 0
+  - mapID: Map-10007
+    describe: "\u6211\u4EEC\u7684\u8425\u5730\uFF0C\u6211\u4EEC\u5728\u8FD9\u4E0A\u9762\u5EFA\u7ACB\u4E86\u9632\u5FA1\u63AA\u65BD"
+    fromScene: BuildingMap
+    sprite: {fileID: 21300000, guid: 78d592c0db59029459471bbf94d33902, type: 3}
+    startPos: {x: 44, y: -27.5, z: 0}
+    mapTile: {fileID: 11400000, guid: be39ec13400b30d44b4b803310e23444, type: 2}
+    isRandomMap: 0
+    isCamp: 0
+  - mapID: Map-10006
+    describe: "\u6211\u4EEC\u7684\u8425\u5730\uFF0C\u6211\u4EEC\u5728\u8FD9\u4E0A\u9762\u5EFA\u7ACB\u4E86\u9632\u5FA1\u63AA\u65BD"
+    fromScene: Camp
+    sprite: {fileID: 21300000, guid: 14cf7a34e51eada418d57fabbc5306b8, type: 3}
+    startPos: {x: 65, y: 5.5, z: 0}
+    mapTile: {fileID: 11400000, guid: 0f378b4c98672d54ca0f69681d7d25d0, type: 2}
+    isRandomMap: 0
+    isCamp: 1

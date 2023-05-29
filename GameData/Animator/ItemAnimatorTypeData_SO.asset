@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 305577bd84b2b1b40925795cf023e9d6, type: 3}
+  m_Name: ItemAnimatorTypeData_SO
+  m_EditorClassIdentifier: 
+  animatorTypeGroupList:
+  - ID: Item-10001
+    animatorTypes:
+    - partType: 2
+      partName: 3
+      overrideController: {fileID: 22100000, guid: cf4ab5095e77d9447a258a11155eccec, type: 2}
+  - ID: Item-10002
+    animatorTypes:
+    - partType: 2
+      partName: 3
+      overrideController: {fileID: 22100000, guid: bde41845f0b812e4fb112bbd8ef48014, type: 2}
+  - ID: Item-10003
+    animatorTypes:
+    - partType: 2
+      partName: 3
+      overrideController: {fileID: 22100000, guid: 819ed8a8e45b652479f161fdd86af1f7, type: 2}
+  - ID: Item-10004
+    animatorTypes:
+    - partType: 2
+      partName: 3
+      overrideController: {fileID: 22100000, guid: aeb1f572b2e04d643877baccef1c8bac, type: 2}
+  - ID: Item-10023
+    animatorTypes:
+    - partType: 1
+      partName: 2
+      overrideController: {fileID: 22100000, guid: 462b57020b2f36342801e64f52b0dc37, type: 2}
+    - partType: 2
+      partName: 2
+      overrideController: {fileID: 22100000, guid: f244e896f1a25024b82c2f9adebef3d6, type: 2}
+    - partType: 3
+      partName: 2
+      overrideController: {fileID: 22100000, guid: 9596cebbb383ab0438d67b6cfb73e159, type: 2}
+    - partType: 4
+      partName: 2
+      overrideController: {fileID: 22100000, guid: e3736d41155c1a24eb357274f8f2991e, type: 2}
+    - partType: 5
+      partName: 2
+      overrideController: {fileID: 22100000, guid: d106c6ca94381774f9b0375382616d94, type: 2}
+    - partType: 6
+      partName: 2
+      overrideController: {fileID: 22100000, guid: 00557b9e3ada81d4da55d9b66865d10c, type: 2}
+  - ID: Item-10024
+    animatorTypes:
+    - partType: 1
+      partName: 2
+      overrideController: {fileID: 22100000, guid: 2391a3ff9c772c7418a73a5fde670c96, type: 2}
+    - partType: 2
+      partName: 2
+      overrideController: {fileID: 22100000, guid: 9ed017d8eb0277b4ab5e1cbaec795efc, type: 2}
+    - partType: 3
+      partName: 2
+      overrideController: {fileID: 22100000, guid: 6c440fdf9e48e554ba58ecfaed21c8ad, type: 2}
+    - partType: 4
+      partName: 2
+      overrideController: {fileID: 22100000, guid: 2562e579bfbc3974fb7d2194b3e9a4f0, type: 2}
+    - partType: 5
+      partName: 2
+      overrideController: {fileID: 22100000, guid: 5fd71f9fc41d17040bc59c8e46218f90, type: 2}
+    - partType: 6
+      partName: 2
+      overrideController: {fileID: 22100000, guid: c2402d4de09b0d148adf22dd309a8dff, type: 2}
+  - ID: Item-10005
+    animatorTypes:
+    - partType: 3
+      partName: 3
+      overrideController: {fileID: 22100000, guid: 7549d50645fdc0e448fbf55cb0843676, type: 2}
+  - ID: Item-10006
+    animatorTypes:
+    - partType: 3
+      partName: 3
+      overrideController: {fileID: 22100000, guid: 4912d115cd702d240a032d9986931df5, type: 2}
+  - ID: Item-10007
+    animatorTypes:
+    - partType: 3
+      partName: 3
+      overrideController: {fileID: 22100000, guid: 11ba3e886f9e5e94bab2a9aaf3816a9a, type: 2}
+  - ID: Item-10008
+    animatorTypes:
+    - partType: 3
+      partName: 3
+      overrideController: {fileID: 22100000, guid: a161632a9fd727b4294ce45ae043cecc, type: 2}
+  - ID: Item-10009
+    animatorTypes:
+    - partType: 4
+      partName: 3
+      overrideController: {fileID: 22100000, guid: c9f6cd8401d73d641958938da3f3b7cf, type: 2}
+  - ID: Item-10010
+    animatorTypes:
+    - partType: 4
+      partName: 3
+      overrideController: {fileID: 22100000, guid: 3adeb10b95417384ba3eaf683f054a99, type: 2}
+  - ID: Item-10011
+    animatorTypes:
+    - partType: 4
+      partName: 3
+      overrideController: {fileID: 22100000, guid: 8146f5725b15e8645a679c1fc8d1c34e, type: 2}
+  - ID: Item-10012
+    animatorTypes:
+    - partType: 4
+      partName: 3
+      overrideController: {fileID: 22100000, guid: 198ba38ac375886448ffdbdd057cb6f6, type: 2}

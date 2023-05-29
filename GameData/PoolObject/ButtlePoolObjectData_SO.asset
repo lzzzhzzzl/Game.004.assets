@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce211ae635a0e1c47b72e3d6904838c6, type: 3}
+  m_Name: ButtlePoolObjectData_SO
+  m_EditorClassIdentifier: 
+  gameObjectsPrefabs:
+  - {fileID: 1676483903722477245, guid: 23171720304c5b644b29384faac22aeb, type: 3}
+  - {fileID: 8490343190217505445, guid: 87b16b5c834ef054193368aa67bb134d, type: 3}
+  - {fileID: 6166730024948118429, guid: 8c5649e40b949014c9a8a0b69316b17e, type: 3}
+  - {fileID: 1367058772208408345, guid: c29955bfd590ea042a2d704f609208cd, type: 3}
+  - {fileID: 7540463262235649627, guid: 0dca3b3b124c04d439ea757259f222dc, type: 3}
+  - {fileID: 8360155291397386789, guid: 237b36a648742684a848b3aef08c244a, type: 3}
+  - {fileID: 3626496381622974543, guid: 99a4c8aebde017a4982e065ade6db119, type: 3}

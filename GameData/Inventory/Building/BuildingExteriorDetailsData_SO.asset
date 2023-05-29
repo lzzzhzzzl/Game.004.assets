@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 015fb7cc40498b94ea2706ea8b817129, type: 3}
+  m_Name: BuildingExteriorDetailsData_SO
+  m_EditorClassIdentifier: 
+  buildingExteriorList:
+  - buildingID: Building-10001
+    sprite: {fileID: 21300000, guid: 1ff3744150fd8d54397499e211464aee, type: 3}
+    buildingPrefab: {fileID: 8491223829356323682, guid: 75ab959a8ef110e44b00e22bb1d86ec8, type: 3}
+    buildingType: 0
+  - buildingID: Building-10002
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 8814160213176166678, guid: 7ae33ef11785609478eef20ecf822db9, type: 3}
+    buildingType: 2
+  - buildingID: Building-10003
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 5787640266610392407, guid: 57d1567dd310f004b9481f7a356f7e1d, type: 3}
+    buildingType: 2
+  - buildingID: Building-10004
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 8121225582773686345, guid: 6ff5529ab43e5054cb415e6af700adc8, type: 3}
+    buildingType: 2
+  - buildingID: Building-10005
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 9196063683298769806, guid: 7d53cea256e8bb744b4434354a57bafe, type: 3}
+    buildingType: 2
+  - buildingID: Building-10006
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 3675845630460828170, guid: f0dc4b6b1d362ca45862f275994ac86a, type: 3}
+    buildingType: 2
+  - buildingID: Building-10007
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 2522460981916236309, guid: e1f9d5811e2dcf84b8a3afb8112cca34, type: 3}
+    buildingType: 2
+  - buildingID: Building-10008
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 3466064857034836828, guid: b5adb96d5c5a54144b86f052e81939bb, type: 3}
+    buildingType: 2
+  - buildingID: Building-10009
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 6296232061052239746, guid: 7baa8b14b48f3b84ebbbfb9fde168f23, type: 3}
+    buildingType: 2
+  - buildingID: Building-10010
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 3946784917092600520, guid: 61a06e7d7f6a8c14d9ddb859aab05f51, type: 3}
+    buildingType: 2
+  - buildingID: Building-10011
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 4799240949467882455, guid: b03c37c272f1d914790455403b36cc28, type: 3}
+    buildingType: 2
+  - buildingID: Building-10012
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 7670681660889218823, guid: 2b197e3e9cde1c54ba9a979f18586a5c, type: 3}
+    buildingType: 2
+  - buildingID: Building-10013
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 6070976744001104737, guid: 666d7ab97672a9349b65d286700fa097, type: 3}
+    buildingType: 2
+  - buildingID: Building-10014
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 4542182001412677309, guid: 204fc2699a1e99443870f2ad7ccd3c71, type: 3}
+    buildingType: 2
+  - buildingID: Building-10015
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 4863096573045075721, guid: 05ab2cc70ca0a0f4ebbc6ebb0d624b69, type: 3}
+    buildingType: 2
+  - buildingID: Building-10016
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 7330893271873912241, guid: d59c7a4c420973243bcf91a69d5633b6, type: 3}
+    buildingType: 2
+  - buildingID: Building-10017
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 6951783163912516561, guid: 589dbfcf5161b614ab26049999367a07, type: 3}
+    buildingType: 2
+  - buildingID: Building-10018
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 260968919924137272, guid: 000d7d073396c1b4baf7a006ecea94c6, type: 3}
+    buildingType: 2
+  - buildingID: Building-10019
+    sprite: {fileID: 0}
+    buildingPrefab: {fileID: 8491223829356323682, guid: 931bf4203ec1c8742b8e1409de335092, type: 3}
+    buildingType: 0

@@ -1,0 +1,443 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 289bb98b82db8d947af3edb0c035e29f, type: 3}
+  m_Name: CropDetailData_SO
+  m_EditorClassIdentifier: 
+  cropDetailList:
+  - cropID: Crop-10001
+    harvestToolItemID:
+    - Item-10001
+    - Item-10002
+    - Item-10003
+    - Item-10004
+    requireActionCount: 02000000010000000100000001000000
+    producedItemID:
+    - Item-10020
+    productedMaxAmount: 03000000
+    productedMinAmount: 01000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 4102182046905608813, guid: 7138bc0e293321540ad0feed3df24c73, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 6
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10002
+    harvestToolItemID:
+    - Item-10001
+    - Item-10002
+    - Item-10003
+    - Item-10004
+    requireActionCount: 02000000010000000100000001000000
+    producedItemID:
+    - Item-10020
+    productedMaxAmount: 03000000
+    productedMinAmount: 01000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 1442664346537247630, guid: be135e04c149756468bd8fbf3855dc47, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 6
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10003
+    harvestToolItemID:
+    - Item-10005
+    - Item-10006
+    - Item-10007
+    - Item-10008
+    requireActionCount: 02000000010000000100000001000000
+    producedItemID:
+    - Item-10015
+    - Item-10016
+    - Item-10017
+    productedMaxAmount: 050000000300000005000000
+    productedMinAmount: 000000000000000000000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 3489468226269150680, guid: e3ad168443014094382af65ea4fcf912, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 6
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10004
+    harvestToolItemID:
+    - Item-10005
+    - Item-10006
+    - Item-10007
+    - Item-10008
+    requireActionCount: 04000000020000000100000001000000
+    producedItemID:
+    - Item-10016
+    productedMaxAmount: 03000000
+    productedMinAmount: 01000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 2232579374179222990, guid: ba507365e84fe2347891be74edd94a30, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 6
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10005
+    harvestToolItemID:
+    - Item-10005
+    - Item-10006
+    - Item-10007
+    - Item-10008
+    requireActionCount: 02000000010000000100000001000000
+    producedItemID:
+    - Item-10015
+    - Item-10016
+    - Item-10017
+    productedMaxAmount: 050000000300000005000000
+    productedMinAmount: 000000000000000000000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 8291412332908173080, guid: 7275f5c46e19f2d4cad6e659031f29a6, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 6
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10006
+    harvestToolItemID:
+    - Item-10009
+    - Item-10010
+    - Item-10011
+    - Item-10012
+    requireActionCount: 01000000010000000100000001000000
+    producedItemID:
+    - Item-10015
+    productedMaxAmount: 05000000
+    productedMinAmount: 01000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 2847492240662679690, guid: 936b153aaff10854cb31e55d7455f1e8, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 5
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10007
+    harvestToolItemID:
+    - Item-10009
+    - Item-10010
+    - Item-10011
+    - Item-10012
+    requireActionCount: 01000000010000000100000001000000
+    producedItemID:
+    - Item-10015
+    productedMaxAmount: 04000000
+    productedMinAmount: 01000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 4951298295577803638, guid: 44098c48c0e55964794d685b1889a5cf, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 5
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10008
+    harvestToolItemID:
+    - Item-10009
+    - Item-10010
+    - Item-10011
+    - Item-10012
+    requireActionCount: 01000000010000000100000001000000
+    producedItemID:
+    - Item-10015
+    productedMaxAmount: 03000000
+    productedMinAmount: 01000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 3280976048484857044, guid: f3917c69894035a409bdf3d98a7d4b55, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 5
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10009
+    harvestToolItemID:
+    - Item-10009
+    - Item-10010
+    - Item-10011
+    - Item-10012
+    requireActionCount: 01000000010000000100000001000000
+    producedItemID:
+    - Item-10015
+    productedMaxAmount: 03000000
+    productedMinAmount: 01000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 2884468813447729408, guid: c1e2c118cb8d1cf42b7a920467d32370, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 5
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10010
+    harvestToolItemID:
+    - Item-10009
+    - Item-10010
+    - Item-10011
+    - Item-10012
+    requireActionCount: 01000000010000000100000001000000
+    producedItemID:
+    - Item-10015
+    productedMaxAmount: 03000000
+    productedMinAmount: 01000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 6891402306607259246, guid: 8ca2df621d833fd4d95190ce8d6e7c66, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 5
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10011
+    harvestToolItemID:
+    - Item-10001
+    - Item-10002
+    - Item-10003
+    - Item-10004
+    requireActionCount: 05000000030000000200000002000000
+    producedItemID:
+    - Item-10013
+    - Item-10017
+    productedMaxAmount: 0500000005000000
+    productedMinAmount: 0200000003000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 3328745695335264383, guid: 6ac85f0990ef6e94fb015bba2a4d1d6b, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 5
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10012
+    harvestToolItemID:
+    - Item-10001
+    - Item-10002
+    - Item-10003
+    - Item-10004
+    requireActionCount: 05000000030000000200000002000000
+    producedItemID:
+    - Item-10013
+    productedMaxAmount: 05000000
+    productedMinAmount: 02000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 3328745695335264383, guid: 6ac85f0990ef6e94fb015bba2a4d1d6b, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 5
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10013
+    harvestToolItemID:
+    - Item-10001
+    - Item-10002
+    - Item-10003
+    - Item-10004
+    requireActionCount: 05000000030000000200000002000000
+    producedItemID:
+    - Item-10013
+    - Item-10016
+    productedMaxAmount: 0500000005000000
+    productedMinAmount: 0200000003000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 3328745695335264383, guid: 6ac85f0990ef6e94fb015bba2a4d1d6b, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 5
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10014
+    harvestToolItemID:
+    - Item-10005
+    - Item-10006
+    - Item-10007
+    - Item-10008
+    requireActionCount: 05000000040000000300000003000000
+    producedItemID:
+    - Item-10014
+    productedMaxAmount: 04000000
+    productedMinAmount: 02000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 8300265999634462683, guid: 216e45361d2cd02409227eec1cab73e5, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 3
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10015
+    harvestToolItemID:
+    - Item-10005
+    - Item-10006
+    - Item-10007
+    - Item-10008
+    requireActionCount: 05000000040000000300000003000000
+    producedItemID:
+    - Item-10014
+    productedMaxAmount: 03000000
+    productedMinAmount: 01000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 5113505506613316744, guid: 947579caeef56844da9ae4a8ec8c33f5, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 3
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10016
+    harvestToolItemID:
+    - Item-10005
+    - Item-10006
+    - Item-10007
+    - Item-10008
+    requireActionCount: 05000000040000000300000003000000
+    producedItemID:
+    - Item-10014
+    productedMaxAmount: 05000000
+    productedMinAmount: 02000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 350673161526413619, guid: cf52903b780bb6240adf2f02e57615db, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 3
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10017
+    harvestToolItemID:
+    - Item-10005
+    - Item-10006
+    - Item-10007
+    - Item-10008
+    requireActionCount: 05000000040000000300000003000000
+    producedItemID:
+    - Item-10014
+    productedMaxAmount: 05000000
+    productedMinAmount: 02000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 7620789535136598360, guid: c152d0c5c5404f744b3d6669bf0fb720, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 3
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10018
+    harvestToolItemID:
+    - Item-10001
+    - Item-10002
+    - Item-10003
+    - Item-10004
+    requireActionCount: 05000000040000000300000003000000
+    producedItemID:
+    - Item-10013
+    - Item-10019
+    productedMaxAmount: 0500000003000000
+    productedMinAmount: 0200000001000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 3232444873577967081, guid: c468c72c44d508b4d83c5b3f96c32c3e, type: 3}
+    transferCropID: Crop-10022
+    hasAnimation: 1
+    hasParticalEffect: 1
+    particalEffect: 4
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10019
+    harvestToolItemID:
+    - Item-10001
+    - Item-10002
+    - Item-10003
+    - Item-10004
+    requireActionCount: 04000000030000000200000002000000
+    producedItemID:
+    - Item-10013
+    - Item-10019
+    productedMaxAmount: 0400000003000000
+    productedMinAmount: 0200000001000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 8202690530105961577, guid: 66d67c7d8d8e50246920d29c2b20c63d, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 4
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10020
+    harvestToolItemID:
+    - Item-10001
+    - Item-10002
+    - Item-10003
+    - Item-10004
+    requireActionCount: 04000000030000000200000002000000
+    producedItemID:
+    - Item-10013
+    - Item-10019
+    productedMaxAmount: 0400000003000000
+    productedMinAmount: 0200000001000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 7562882841964700777, guid: 59bc2665f0a0a804ab6c3ae99d8c2ff7, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 4
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10021
+    harvestToolItemID:
+    - Item-10001
+    - Item-10002
+    - Item-10003
+    - Item-10004
+    requireActionCount: 04000000030000000200000002000000
+    producedItemID:
+    - Item-10013
+    - Item-10019
+    productedMaxAmount: 0400000003000000
+    productedMinAmount: 0200000001000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 5594638008497804868, guid: 89f8cd2db92a69a459270f6288697b3c, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 4
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0
+  - cropID: Crop-10022
+    harvestToolItemID:
+    - Item-10001
+    - Item-10002
+    - Item-10003
+    - Item-10004
+    requireActionCount: 04000000030000000200000002000000
+    producedItemID:
+    - Item-10013
+    productedMaxAmount: 03000000
+    productedMinAmount: 01000000
+    spwamRadius: {x: 0.5, y: 0.5}
+    cropPrefab: {fileID: 6456721939087046448, guid: ece303e4aa4ec7f43bc6685ce8205b82, type: 3}
+    transferCropID: 
+    hasAnimation: 0
+    hasParticalEffect: 1
+    particalEffect: 6
+    effectPos: {x: 0, y: 0, z: 0}
+    soundEffect: 0

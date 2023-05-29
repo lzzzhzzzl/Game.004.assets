@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb513434966078f4581a3cbb5dcb79dd, type: 3}
+  m_Name: ItemDetails_SO
+  m_EditorClassIdentifier: 
+  itemDetailList:
+  - itemID: Item-10001
+    itemName: Axe1
+    itemType: 2
+    itemIcon: {fileID: -917690704, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: -917690704, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 2
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 15
+  - itemID: Item-10002
+    itemName: Axe2
+    itemType: 2
+    itemIcon: {fileID: 118633701, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 118633701, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 2
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 20
+  - itemID: Item-10003
+    itemName: Axe3
+    itemType: 2
+    itemIcon: {fileID: 1034207097, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 1034207097, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 2
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 25
+  - itemID: Item-10004
+    itemName: Axe4
+    itemType: 2
+    itemIcon: {fileID: 12539620, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 12539620, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 2
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 35
+  - itemID: Item-10005
+    itemName: PickAxe1
+    itemType: 3
+    itemIcon: {fileID: -397966239, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: -397966239, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 2
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 15
+  - itemID: Item-10006
+    itemName: PickAxe2
+    itemType: 3
+    itemIcon: {fileID: -1236517764, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: -1236517764, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 2
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 20
+  - itemID: Item-10007
+    itemName: PickAxe3
+    itemType: 3
+    itemIcon: {fileID: -247238779, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: -247238779, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 2
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 25
+  - itemID: Item-10008
+    itemName: PickAxe4
+    itemType: 3
+    itemIcon: {fileID: 1072491820, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 1072491820, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 2
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 35
+  - itemID: Item-10009
+    itemName: Sword1
+    itemType: 4
+    itemIcon: {fileID: 1325071053, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 1325071053, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 3
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 5
+    useTimes: 10
+  - itemID: Item-10010
+    itemName: Sword2
+    itemType: 4
+    itemIcon: {fileID: -28386641, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: -28386641, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 3
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 10
+    useTimes: 20
+  - itemID: Item-10011
+    itemName: Sword3
+    itemType: 4
+    itemIcon: {fileID: 256497533, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 256497533, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 3
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 30
+    useTimes: 35
+  - itemID: Item-10012
+    itemName: Sword4
+    itemType: 4
+    itemIcon: {fileID: -477125490, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: -477125490, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 3
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 20
+    useTimes: 50
+  - itemID: Item-10013
+    itemName: Wood1
+    itemType: 1
+    itemIcon: {fileID: 246970127, guid: f85aca430e7870c42b268447ca9b9330, type: 3}
+    itemOnWorldSprite: {fileID: -864097295, guid: 9601a63c03448244b8006a4c679c7823, type: 3}
+    itemUseRadius: 0
+    canPickedup: 1
+    hasAnimation: 1
+    itemInstantiateAnimator: {fileID: 22100000, guid: 60c178c0f06921047b79ce18acc0a5ff, type: 2}
+    damage: 0
+    useTimes: 0
+  - itemID: Item-10014
+    itemName: Stone1
+    itemType: 1
+    itemIcon: {fileID: 21300000, guid: 45a3ea64377134f4299e757a1becb6df, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: 45a3ea64377134f4299e757a1becb6df, type: 3}
+    itemUseRadius: 0
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 0
+  - itemID: Item-10015
+    itemName: Grass1
+    itemType: 1
+    itemIcon: {fileID: 21300000, guid: 44995aba97481da41948c8623c503c91, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: 44995aba97481da41948c8623c503c91, type: 3}
+    itemUseRadius: 0
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 0
+  - itemID: Item-10016
+    itemName: Masonry1
+    itemType: 1
+    itemIcon: {fileID: 1140941657, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 1140941657, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 0
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 0
+  - itemID: Item-10017
+    itemName: Bound1
+    itemType: 1
+    itemIcon: {fileID: -1475655043, guid: 2d475ae3a7056904e9493019df723eb1, type: 3}
+    itemOnWorldSprite: {fileID: -1475655043, guid: 2d475ae3a7056904e9493019df723eb1, type: 3}
+    itemUseRadius: 3
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 0
+    useTimes: 0
+  - itemID: Item-10018
+    itemName: Cover1
+    itemType: 0
+    itemIcon: {fileID: 1197455644, guid: bb48ea0ae0b27e4488d17bcf7a2b63e7, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: fd15cb867bf86ce48b56e20bd05b4e82, type: 3}
+    itemUseRadius: 3
+    canPickedup: 1
+    hasAnimation: 1
+    itemInstantiateAnimator: {fileID: 22100000, guid: e978ee1fe863f514f8c95b0e5ed0478f, type: 2}
+    damage: 5
+    useTimes: 0
+  - itemID: Item-10019
+    itemName: Cover2
+    itemType: 0
+    itemIcon: {fileID: -1778017609, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: -1778017609, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 3
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 5
+    useTimes: 0
+  - itemID: Item-10020
+    itemName: Cover3
+    itemType: 0
+    itemIcon: {fileID: -1737959681, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: -1737959681, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 0
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 8
+    useTimes: 0
+  - itemID: Item-10021
+    itemName: Cover4
+    itemType: 0
+    itemIcon: {fileID: 592802383, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 592802383, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 3
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 10
+    useTimes: 0
+  - itemID: Item-10022
+    itemName: Cover5
+    itemType: 0
+    itemIcon: {fileID: 1453532298, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 1453532298, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemUseRadius: 3
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 20
+    useTimes: 0
+  - itemID: Item-10023
+    itemName: Clothes1
+    itemType: 6
+    itemIcon: {fileID: 1026174161, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 1980375492, guid: 207e787c9d813074799c76c83c243fda, type: 3}
+    itemUseRadius: 0
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 1
+    useTimes: 0
+  - itemID: Item-10024
+    itemName: Clothes2
+    itemType: 6
+    itemIcon: {fileID: 1984518148, guid: 000467166c5537946a6e55efcd01f4ff, type: 3}
+    itemOnWorldSprite: {fileID: 1980375492, guid: 227b0c22c80aba44b9e5ae17a3758a7f, type: 3}
+    itemUseRadius: 0
+    canPickedup: 1
+    hasAnimation: 0
+    itemInstantiateAnimator: {fileID: 0}
+    damage: 3
+    useTimes: 0

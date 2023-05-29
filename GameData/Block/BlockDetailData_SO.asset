@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a489953235fac142a8ce6dd11adb573, type: 3}
+  m_Name: BlockDetailData_SO
+  m_EditorClassIdentifier: 
+  blockDetailList:
+  - blockId: BL-10001
+    blockType: 2
+    GenerationRatio: 0.03
+    itemsID:
+    - Building-10003
+  - blockId: BL-10002
+    blockType: 0
+    GenerationRatio: 0.1
+    itemsID:
+    - Building-10002
+    - Building-10004
+    - Building-10005
+    - Building-10006
+    - Building-10007
+    - Crop-10001
+    - Crop-10002
+    - Crop-10004
+    - Crop-10006
+    - Crop-10007
+    - Crop-10008
+    - Crop-10009
+    - Crop-10010
+    - Crop-10011
+    - Crop-10012
+    - Crop-10013
+    - Crop-10014
+    - Crop-10015
+    - Crop-10016
+    - Crop-10017
+  - blockId: BL-10003
+    blockType: 0
+    GenerationRatio: 0
+    itemsID: []
+  - blockId: BL-10004
+    blockType: 0
+    GenerationRatio: 0.5
+    itemsID:
+    - Crop-10018
+    - Crop-10019
+    - Crop-10020
+    - Crop-10021
+  - blockId: BL-10005
+    blockType: 0
+    GenerationRatio: 0.05
+    itemsID: []

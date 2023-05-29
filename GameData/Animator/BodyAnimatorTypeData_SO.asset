@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 305577bd84b2b1b40925795cf023e9d6, type: 3}
+  m_Name: BodyAnimatorTypeData_SO
+  m_EditorClassIdentifier: 
+  animatorTypeGroupList:
+  - ID: Hair1
+    animatorTypes:
+    - partType: 1
+      partName: 0
+      overrideController: {fileID: 22100000, guid: 5960947e28bd957499f87387df74d7bf, type: 2}
+    - partType: 2
+      partName: 0
+      overrideController: {fileID: 22100000, guid: bdeec0d77f4f2a248ab0d9fa904a457a, type: 2}
+    - partType: 3
+      partName: 0
+      overrideController: {fileID: 22100000, guid: 3447fb197c053a44983e1a7cc1606be5, type: 2}
+    - partType: 4
+      partName: 0
+      overrideController: {fileID: 22100000, guid: 056ba2d7ec2b79d44bd9ba0bed34b133, type: 2}
+    - partType: 5
+      partName: 0
+      overrideController: {fileID: 22100000, guid: b27fd45fe9cdd2645a317234641234e6, type: 2}
+    - partType: 6
+      partName: 0
+      overrideController: {fileID: 22100000, guid: 8d3626608a5efca4eb946c07c0355c0f, type: 2}
+  - ID: Character1
+    animatorTypes:
+    - partType: 1
+      partName: 1
+      overrideController: {fileID: 22100000, guid: 4def6be000bcb3c4497992afd3f15e78, type: 2}
+    - partType: 2
+      partName: 1
+      overrideController: {fileID: 22100000, guid: 065adf021e578e5408610c8cf17eef39, type: 2}
+    - partType: 3
+      partName: 1
+      overrideController: {fileID: 22100000, guid: 065adf021e578e5408610c8cf17eef39, type: 2}
+    - partType: 4
+      partName: 1
+      overrideController: {fileID: 22100000, guid: 6ee4c777cbf88cf4e838d4cca37dd166, type: 2}
+    - partType: 5
+      partName: 1
+      overrideController: {fileID: 22100000, guid: 7a4ec37fd1b35a14081ced6cdcd8f447, type: 2}
+    - partType: 6
+      partName: 1
+      overrideController: {fileID: 22100000, guid: aedcaea74d421e44db3e272dc4dfa7b9, type: 2}
